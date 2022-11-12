@@ -1,4 +1,4 @@
-# I still don't have a name for this project but it's nice !
+
 
 _spuf-314_ is a Web Application _prototype_ for public transportation, serving a RESTful API to find Stations, Bus, Metro and Tramway's Lines, while also computing the best multimodal path between two stations or addresses.
 
